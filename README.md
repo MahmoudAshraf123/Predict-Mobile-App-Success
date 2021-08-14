@@ -1,6 +1,6 @@
 # --Predict Moblie App Success--
 
-#### It is a Machine Learning Project that can predict the rate of the app.
+#### It is a Machine Learning Project that can predict Mobile app success.
 
 ##### - There are two milestones to predict if the app will gain succes depend on some features:
 - Milestone1: Regression
